@@ -25,7 +25,7 @@ SECRET_KEY = '@oh$a)ugk@v!%ptq@8@wd3gma^h8@r^a5$bg&q0ju1p80ng!j*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['skozina.pythonanywhere.com']
 
 
 # Application definition
